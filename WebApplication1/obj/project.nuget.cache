@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "MfGt4jKzYZfLPbD7wFkP8C8J2xVZ1H1rgZSF2C0o8zqrFIJzjigZBHdRTkTdeCIQhgt1vctZ5BHai2xh9fjUaw==",
+  "success": true,
+  "projectFilePath": "/Users/deepakraj/Downloads/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/deepakraj/.nuget/packages/masstransit/8.2.4/masstransit.8.2.4.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/masstransit.abstractions/8.2.4/masstransit.abstractions.8.2.4.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/masstransit.aspnetcore/7.3.1/masstransit.aspnetcore.7.3.1.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/masstransit.extensions.dependencyinjection/7.3.1/masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/masstransit.rabbitmq/8.2.4/masstransit.rabbitmq.8.2.4.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/6.0.1/microsoft.extensions.diagnostics.healthchecks.6.0.1.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.1/microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.1.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.hosting.abstractions/6.0.0/microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/deepakraj/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
